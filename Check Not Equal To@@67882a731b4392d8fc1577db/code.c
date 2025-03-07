@@ -9,7 +9,7 @@ int main() {
 
     scanf("%d", &num2);
 
-    if (num1 =! num2) {
+    if (num1 != num2) {
         printf("True");
     } else {
         printf("False");
