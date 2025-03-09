@@ -8,9 +8,9 @@ int main() {
     scanf("%d %d", &a, &b);
 
     
-    a = a + b;  // a becomes the sum of a and b
-    b = a - b;  // b becomes the original value of a
-    a = a - b;  // a becomes the original value of b
+    a = a + b;  
+    b = a - b; 
+    a = a - b;  
 
     printf("%d %d", a, b);
 
