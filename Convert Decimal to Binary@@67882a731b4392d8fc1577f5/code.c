@@ -23,7 +23,7 @@ int main() {
     scanf("%d", &num);
 
     
-    printBinary(num);
+   
 
     return 0;
 }
