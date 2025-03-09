@@ -12,7 +12,7 @@ int main() {
     b = a - b;  // b becomes the original value of a
     a = a - b;  // a becomes the original value of b
 
-    printf("%d", a, b);
+    printf("%d %d", a, b);
 
     return 0;
 }
