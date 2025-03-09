@@ -13,7 +13,7 @@ void printBinary(int num) {
         printf("%d", bit);
     }
 
-    printf("\n");
+    
 }
 
 int main() {
@@ -23,7 +23,7 @@ int main() {
     scanf("%d", &num);
 
     
-   
+    printBinary(num);
 
     return 0;
 }
