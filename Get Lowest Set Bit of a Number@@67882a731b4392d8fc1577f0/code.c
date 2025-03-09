@@ -19,7 +19,7 @@ int main() {
             bitPosition++;
         }
 
-        printf("%d", bitPosition + 1);
+        printf("%d", bitPosition);
     }
 
     return 0;
