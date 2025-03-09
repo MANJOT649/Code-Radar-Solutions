@@ -9,7 +9,7 @@ int main() {
 
     result = num1 | num2;
 
-    printf(" %d %d %d\n", result);
+    printf(" %d", result);
 
     return 0;
 }
